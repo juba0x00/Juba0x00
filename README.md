@@ -3,13 +3,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juba0x00" alt="juba0x00" /></a> </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- ### Blogs posts -->
+BLOG-POST-LIST:START
+BLOG-POST-LIST:END
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/juba0x00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juba0x00" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/juba0x00" target="blank"><img align="center" src="tryhackme_logo_full.svg" alt="juba0x00" height="30" width="40" /></a>
+<a href="https://tryhackme.com/p/Juba0x430x55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juba0x00" height="30" width="40" /></a>
 <a href="https://juba0x00.github.io/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://juba0x00.github.io/feed.xml" height="30" width="40" /></a>
 </p>
 
