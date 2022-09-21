@@ -24,4 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juba0x00&show_icons=true&locale=en" alt="juba0x00" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juba0x00&" alt="juba0x00" /></p>
-
+<table>
+  <tr align='center'><img alt="Github Graph" src="https://activity-graph.herokuapp.com/graph?username=juba0x00&theme=gotham&area=true" /></tr>
+</table><br/><br/>
