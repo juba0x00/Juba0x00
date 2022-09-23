@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juba0x00</h1>
+<h1 align="center">Hi 👋, I'm Mahmoud Hawash aka Juba</h1>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juba0x00" alt="juba0x00" /></a> </p>
